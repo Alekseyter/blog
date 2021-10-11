@@ -97,6 +97,7 @@ body {
 .logo {
 	text-decoration: none;
 	color: #000;
+	font-weight: 500;
 }
 
 #header .header__top .header__top__menu {
