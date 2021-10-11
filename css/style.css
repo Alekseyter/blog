@@ -94,6 +94,11 @@ body {
 	float: left;
 }
 
+.logo {
+	text-decoration: none;
+	color: #000;
+}
+
 #header .header__top .header__top__menu {
 	padding-top: 15px;
 	text-align: right;

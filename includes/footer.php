@@ -1,7 +1,7 @@
 <footer id="footer">
     <div class="container">
     <div class="footer__logo">
-        <h1><?php echo $config['title']; ?></h1>
+        <h1><a href="/" class="logo"><?php echo $config['title']; ?></a></h1>
     </div>
     <nav class="footer__menu">
         <ul>
